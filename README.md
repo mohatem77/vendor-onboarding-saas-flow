@@ -31,6 +31,14 @@ The platform replaces manual, email-based supplier onboarding with a structured,
 - status tracking
 - ERP integration readiness
 
+## Screenshots
+
+### Vendor Registration Interface
+![Vendor Registration](screenshots/vendor-onboarding-portal.png)
+
+### Onboarding Status Dashboard
+![Onboarding Status](screenshots/onboarding-status-dashboard.png)
+
 ## Business Value
 
 This system enables:
