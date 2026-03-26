@@ -89,3 +89,5 @@ This platform introduces:
 - ERP integration readiness
 
 This significantly improves operational efficiency and reduces onboarding risk.
+
+This workflow integrates with AI-driven invoice processing pipelines to enable full end-to-end financial automation.
