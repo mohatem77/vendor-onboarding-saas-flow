@@ -55,6 +55,7 @@ This work reflects my contribution to:
 - onboarding workflow architecture
 - compliance-aware system design
 - enterprise process automation
+- This work is independently developed and represents my personal contribution to SaaS product design and workflow architecture.
 
 ## Current Status
 
