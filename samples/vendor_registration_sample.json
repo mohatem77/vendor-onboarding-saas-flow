@@ -1,1 +1,14 @@
 
+{
+  "company_name": "Global Supplies Ltd",
+  "country": "United Arab Emirates",
+  "email": "procurement@globalsupplies.com",
+  "tax_id": "GS-55677-2024",
+  "documents": [
+    "trade_license.pdf",
+    "vat_certificate.pdf",
+    "bank_details_letter.pdf"
+  ],
+  "status": "pending_review",
+  "validation_status": "in_progress"
+}
