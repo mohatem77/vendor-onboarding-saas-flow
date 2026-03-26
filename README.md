@@ -67,3 +67,25 @@ This repository represents the workflow and system design for a scalable vendor 
 - flows/ → onboarding workflow logic
 - samples/ → structured vendor data
 - screenshots/ → UI and flow visuals
+
+  ## Why This Matters
+
+Vendor onboarding is a critical bottleneck in enterprise finance operations. Traditional onboarding relies on manual communication, document exchange, and inconsistent validation processes.
+
+This platform introduces:
+- structured onboarding workflows
+- standardized validation logic
+- compliance-ready processes
+- ERP integration readiness
+  
+## Why This Matters
+
+Vendor onboarding is a critical bottleneck in enterprise finance operations. Traditional onboarding relies on manual communication, document exchange, and inconsistent validation processes.
+
+This platform introduces:
+- structured onboarding workflows
+- standardized validation logic
+- compliance-ready processes
+- ERP integration readiness
+
+This significantly improves operational efficiency and reduces onboarding risk.
